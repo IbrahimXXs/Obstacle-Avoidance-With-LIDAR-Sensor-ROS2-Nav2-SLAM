@@ -2,6 +2,7 @@
 
 ## Overview
 ### *This project utilizes ROS2 Humble in conjunction with Gazebo and Rviz to create a robot equipped with a LIDAR sensor. The robot employs advanced concepts such as Simultaneous Localization and Mapping (SLAM) and Navigation2 (Nav2) for effective mapping and obstacle avoidance.*
+![ros2_nav2_course_800_600](https://github.com/IbrahimXXs/Obstacle-Avoidance-With-LIDAR-Sensor-ROS2-Nav2-SLAM/assets/146712453/1d662c34-2db9-49bb-a590-9ba9ac2656c2)
 
 #### Dependencies:
 
